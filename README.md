@@ -1,0 +1,2 @@
+# LearningGitRepoFrom
+To learn Git
